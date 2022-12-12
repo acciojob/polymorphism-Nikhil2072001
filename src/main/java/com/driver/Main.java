@@ -21,7 +21,7 @@ return x*y;
        int ans = p.product(0,0);
        int ans1= p.product(0,0,0);
       double ans2=  p.product(0.0,0.0);
-        System.out.println(ans+" "+ans1+" "+ans2);
+       // System.out.println(ans+" "+ans1+" "+ans2);
     }
 
 }
